@@ -1,29 +1,28 @@
 {
-  "name": "Harmony",
-  "version": "0.0.2",
-  "description": "Pink/Black Theme for Enmity",
-  "color": "#fb2d7f",
+  "name": "Pink_ipad",
+  "version": "1.0",
+  "description": "Pink Anime Theme",
   "authors": [
     {
-      "name": "Bwlok#6440",
-      "id": "501827585806827520"
+      "name": "melonwer",
+      "id": "848518188195250176"
     }
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#000000",
+      "#0a0408",
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#fb2d7f",
+      "#FBFBFB",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#FFFFFF",
+      "#B6B6B6",
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#FFFFFF",
+      "#FBFBFB",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
@@ -31,15 +30,15 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#fb2d7f",
+      "#d160cf",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#fb2d7f",
+      "#DCDDDE",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#fb2d7f",
+      "#d160cf",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -47,59 +46,59 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0a0a0a",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#FFFFFF",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#000000",
+      "#1a1926",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#000000",
+      "#171717",
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
@@ -111,7 +110,7 @@
       "#FFFFFF"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#000000",
+      "#292929",
       "#FFFFFF"
     ],
     "SCROLLBAR_AUTO_TRACK": [
@@ -123,39 +122,38 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#fb2d7f",
+      "#ff63bc",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#fb2d7f",
-      "#fb2d7f"
+      "#d62515",
+      "#6c56c4"
     ],
     "CHANNEL_ICON": [
-      "#fb2d7f",
-      "#fb2d7f"
+      "#ff63bc",
+      "#6c56c4"
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#FFFFFF",
-    "PRIMARY_DARK_100": "#fb2d7f",
-    "PRIMARY_DARK_200": "#fb2d7f",
-    "PRIMARY_DARK_300": "#000000",
-    "PRIMARY_DARK_360": "#FFFFFF",
-    "PRIMARY_DARK_400": "#000000",
-    "PRIMARY_DARK_500": "#000000",
-    "PRIMARY_DARK_600": "#000000",
-    "PRIMARY_DARK_630": "#000000",
-    "PRIMARY_DARK_700": "#000000",
-    "PRIMARY_DARK_800": "#000000",
-    "PRIMARY_DARK_900": "#000000"
+    "PRIMARY_DARK": "#171717",
+    "PRIMARY_DARK_100": "#ffffff",
+    "PRIMARY_DARK_200": "#ffffff",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#C8C8C8",
+    "PRIMARY_DARK_400": "#C8C8C8",
+    "PRIMARY_DARK_500": "#0c0c0c",
+    "PRIMARY_DARK_600": "#171717",
+    "PRIMARY_DARK_630": "#1f1f1f",
+    "PRIMARY_DARK_700": "#171717",
+    "PRIMARY_DARK_800": "#171717",
+    "PRIMARY_DARK_900": "#171717"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#000000"
-  }
+    "CHAT_GREY": "#171717"
   },
   "background": {
-    "blur": 0,
-    "url": "https://media.discordapp.net/attachments/544686446959788033/1027951475458052176/IMG_1129.png",
+    "blur": 0.1,
+    "url": "https://media.discordapp.net/attachments/851908807130087455/1009255999389040660/SIX_7ACA9F41-8F16-4F65-8197-AB80CD580862.png",
     "alpha": 1.0
   }
 }
