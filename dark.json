@@ -1,28 +1,29 @@
 {
-  "name": "Pink_ipad",
-  "version": "1.0",
-  "description": "Pink Anime Theme",
+  "name": "Harmony",
+  "version": "0.0.2",
+  "description": "Pink/Black Theme for Enmity",
+  "color": "#fb2d7f",
   "authors": [
     {
-      "name": "melonwer",
-      "id": "848518188195250176"
+      "name": "Bwlok#6440",
+      "id": "501827585806827520"
     }
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#0a0408",
+      "#000000",
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#FBFBFB",
+      "#fb2d7f",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#B6B6B6",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
@@ -30,15 +31,15 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#d160cf",
+      "#fb2d7f",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#DCDDDE",
+      "#fb2d7f",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#d160cf",
+      "#fb2d7f",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -46,59 +47,59 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#171717",
+      "#0a0a0a",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#171717",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#1a1926",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#171717",
+      "#000000",
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
@@ -110,7 +111,7 @@
       "#FFFFFF"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#292929",
+      "#000000",
       "#FFFFFF"
     ],
     "SCROLLBAR_AUTO_TRACK": [
@@ -122,38 +123,39 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#ff63bc",
+      "#fb2d7f",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#d62515",
-      "#6c56c4"
+      "#fb2d7f",
+      "#fb2d7f"
     ],
     "CHANNEL_ICON": [
-      "#ff63bc",
-      "#6c56c4"
+      "#fb2d7f",
+      "#fb2d7f"
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#171717",
-    "PRIMARY_DARK_100": "#ffffff",
-    "PRIMARY_DARK_200": "#ffffff",
-    "PRIMARY_DARK_300": "#B6B6B6",
-    "PRIMARY_DARK_360": "#C8C8C8",
-    "PRIMARY_DARK_400": "#C8C8C8",
-    "PRIMARY_DARK_500": "#0c0c0c",
-    "PRIMARY_DARK_600": "#171717",
-    "PRIMARY_DARK_630": "#1f1f1f",
-    "PRIMARY_DARK_700": "#171717",
-    "PRIMARY_DARK_800": "#171717",
-    "PRIMARY_DARK_900": "#171717"
+    "PRIMARY_DARK": "#FFFFFF",
+    "PRIMARY_DARK_100": "#fb2d7f",
+    "PRIMARY_DARK_200": "#fb2d7f",
+    "PRIMARY_DARK_300": "#000000",
+    "PRIMARY_DARK_360": "#FFFFFF",
+    "PRIMARY_DARK_400": "#000000",
+    "PRIMARY_DARK_500": "#000000",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "PRIMARY_DARK_900": "#000000"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#171717"
-  },
+    "CHAT_GREY": "#000000"
+  }
+    },
   "background": {
     "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/851908807130087455/1009255999389040660/SIX_7ACA9F41-8F16-4F65-8197-AB80CD580862.png",
+    "url": "https://media.discordapp.net/attachments/544686446959788033/1027951475458052176/IMG_1129.png,
     "alpha": 1.0
   }
 }
