@@ -1,11 +1,11 @@
 {
   "name": "Harmony",
-  "version": "0.0.2",
+  "version": "1.0",
   "description": "Pink/Black Theme for Enmity",
   "color": "#fb2d7f",
   "authors": [
     {
-      "name": "Bwlok#6440",
+      "name": "LeatherHead#1996",
       "id": "501827585806827520"
     }
   ],
@@ -59,7 +59,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0a0a0a",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
@@ -83,7 +83,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#FFFFFF",
+      "#000000",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
@@ -151,9 +151,9 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#000000"
-    },
+  },
   "background": {
-    "blur": 0.1,
+    "blur": 0,
     "url": "https://media.discordapp.net/attachments/544686446959788033/1027951475458052176/IMG_1129.png",
     "alpha": 1.0
   }
